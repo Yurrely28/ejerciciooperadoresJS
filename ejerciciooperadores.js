@@ -12,7 +12,7 @@ console.log("b)", ((2-3)**4*5/(4+3*9)))
 console.log("c)", 49.38 + 127.73 - 15.02*6.83/3.22)
 console.log("d)", Math.trunc(19/3))
 console.log("e)", 15%6)
-console.log("f)", ((15*8%6 + Math.trunc(24/(2**3)**3/4))*((5*1)/2+(1/4)+(2**3-4))))
+console.log("f)", ((15*8)%6 + Math.trunc(24/(2**3))**3/4)*((5**1)/2+(1/4)+(2**3-4)))
 
 console.log("Punto3")
 console.log("a)",true || true && false || true)
